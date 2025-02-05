@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 📝 I regularly write articles on [https://www.geeksforgeeks.org/user/dukuru_venkatesh/contributions/](https://www.geeksforgeeks.org/user/dukuru_venkatesh/contributions/)
+- 📝 I regularly write articles on [GeeksforGeeks](https://www.geeksforgeeks.org/user/dukuru_venkatesh/contributions/)
 
 - 📫 How to reach me **venkateshdukuru2266@gmail.com**
 
@@ -15,10 +15,11 @@
 <p align="left">
 <a href="https://linkedin.com/in/www.linkedin.com/in/venkatesh-dukuru-90793022b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/venkatesh-dukuru-90793022b/" height="30" width="40" /></a>
 <a href="https://kaggle.com/https://www.kaggle.com/venkateshdukuru" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/venkateshdukuru" height="30" width="40" /></a>
-<a href="https://medium.com/venkateshdukuru2266" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="venkateshdukuru2266" height="30" width="40" /></a>
+<a href="https://medium.com/@venkateshdukuru2266" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="venkateshdukuru2266" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/https://www.codechef.com/users/venkateshdukur" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/venkateshdukur" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/https://leetcode.com/profile/account/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/profile/account/" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/https://www.geeksforgeeks.org/user/dukuru_venkatesh/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://www.geeksforgeeks.org/user/dukuru_venkatesh/" height="30" width="40" /></a>
+<a href="https://huggingface.co/Dukuruvenkatesh6106" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/huggingface.svg" alt="Dukuruvenkatesh6106" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -27,3 +28,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=venkateshdukuru&show_icons=true&locale=en&layout=compact" alt="venkateshdukuru" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=venkateshdukuru&show_icons=true&locale=en" alt="venkateshdukuru" /></p>
+
+<p>Research paper: <a href="https://www.springerprofessional.de/en/identifying-patterns-and-trends-in-campus-placement-data-using-m/50532470">Identifying Patterns and Trends in Campus Placement Data Using ML</a></p>
