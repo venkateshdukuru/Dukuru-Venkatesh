@@ -13,12 +13,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/venkatesh-dukuru-90793022b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/venkatesh-dukuru-90793022b/" height="30" width="40" /></a>
-<a href="https://kaggle.com/https://www.kaggle.com/venkateshdukuru" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/venkateshdukuru" height="30" width="40" /></a>
+<a href="https://linkedin.com/venkatesh-dukuru-90793022b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/venkatesh-dukuru-90793022b/" height="30" width="40" /></a>
+<a href="https://www.kaggle.com/venkateshdukuru" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/venkateshdukuru" height="30" width="40" /></a>
 <a href="https://medium.com/@venkateshdukuru2266" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="venkateshdukuru2266" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/https://www.codechef.com/users/venkateshdukur" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/venkateshdukur" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/profile/account/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/profile/account/" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/https://www.geeksforgeeks.org/user/dukuru_venkatesh/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://www.geeksforgeeks.org/user/dukuru_venkatesh/" height="30" width="40" /></a>
 <a href="https://huggingface.co/Dukuruvenkatesh6106" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/huggingface.svg" alt="Dukuruvenkatesh6106" height="30" width="40" /></a>
 </p>
 
